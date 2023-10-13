@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hujdus
-- 👀 I’m interested in many things for example fishkeeping, modeling and painting miniatures from GW
+- 👀 I’m interested in many things for example fishkeeping, modeling and painting miniatures from GW and play video games
 - 🌱 I’m currently learning Python
 - 📫 How to reach me d.hujdus@op.pl
 
